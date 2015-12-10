@@ -1,0 +1,53 @@
+html {
+}
+
+header {
+	background: lightblue;
+	position: fixed;
+	width: 100%;
+	top: 0px;
+	right: 0px;
+	text-align: right;
+}
+
+#menu li{
+	background: grey;
+	border-radius: 5px;
+	display: inline;
+	padding: 5px 5px;
+}
+
+ul {
+	padding-right: 25px;
+}
+
+
+#menu li:hover {
+	background: red;
+}
+
+body {
+	background: white;
+	text-align: center;
+	margin: 200px;
+}
+
+#google_image {
+	padding-bottom: 10px;
+}
+
+#searchbars {
+	text-align: inline;
+}
+
+#search_button {
+}
+
+footer {
+	widows: 100%;
+	border-top: 1px solid grey;
+	position: absolute;
+	bottom: 0px;
+	left: 0px;
+	width: 100%;
+}
